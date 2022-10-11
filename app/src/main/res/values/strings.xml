@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyCinema</string>
+    <string name="play">ПОСМОТРЕТЬ</string>
+    <string name="shreck1">SHRECK</string>
+    <string name="shreck2">SHRECK2</string>
+    <string name="shreck3">Shreck3</string>
+    <string name="shreck4">Shrek Forever After</string>
+    <string name="shreck5">Shreck5</string>
+    <string name="shreck6">Shreck6</string>
+    <string name="shreck7">Shreck7</string>
+    <string name="shreck8">Shreck8</string>
+
+
+    <string name="Long1">∞</string>
+    <string name="Long2">∞</string>
+    <string name="Long3">∞</string>
+    <string name="Long4">∞</string>
+    <string name="Long5">∞</string>
+    <string name="Long6">∞</string>
+    <string name="Long7">∞</string>
+    <string name="Long8">∞</string>
+
+
+    <string name="shreck1Actors">Magnificent Shrek</string>
+    <string name="shreck2Actors">Magnificent Shrek</string>
+    <string name="shreck3Actors">Magnificent Shrek</string>
+    <string name="shreck4Actors">Magnificent Shrek</string>
+    <string name="shreck5Actors">Magnificent Shrek</string>
+    <string name="shreck6Actors">Magnificent Shrek</string>
+    <string name="shreck7Actors">Magnificent Shrek</string>
+    <string name="shreck8Actors">Magnificent Shrek</string>
+
+
+    <string name="shreck1Rating">10</string>
+    <string name="shreck2Rating">10</string>
+    <string name="shreck3Rating">10</string>
+    <string name="shreck4Rating">10</string>
+    <string name="shreck5Rating">10</string>
+    <string name="shreck6Rating">10</string>
+    <string name="shreck7Rating">10</string>
+    <string name="shreck8Rating">10</string>
+
+    <string name="longMovie">Длительность:</string>
+    <string name="actorsMovie">Актеры:</string>
+    <string name="ratingMovie">Рейтинг:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="watching">Смотреть</string>
+
+
+</resources>
